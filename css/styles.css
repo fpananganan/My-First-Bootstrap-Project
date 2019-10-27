@@ -26,6 +26,12 @@ header h2 {
     background-color: rgba(0, 0, 0, 0.5); 
 }
 
+#carouselButton {
+    position: absolute; 
+    right: 0; 
+    bottom: 0; 
+}
+
 .site-footer {
     background-image: linear-gradient(#b7a8f8, white);
     padding: 20px 0px;
